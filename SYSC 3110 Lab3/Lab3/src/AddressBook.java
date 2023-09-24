@@ -31,6 +31,7 @@ public class AddressBook {
         a1.addBuddy(b1);
         a1.removeBuddy(b1);
 
+        System.out.println("Hello");
 
     }
 
